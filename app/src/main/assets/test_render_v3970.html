@@ -1,0 +1,14 @@
+<!doctype html><meta charset="utf-8"><style>html,body{margin:0;background:#fff}#root{width:1087px}</style><div id="root"></div>
+<script>
+window.data={settings:{activeInvoiceTemplateId:'invoice_template_t4',phone1:'09146054107',phone2:'09145550396',address:'ارومیه، شهرک شهریار، آخر خیابان چهره گشا',signerName:'جاوید حشمت',nationalId:'2740452144',cardNumber:'6104337341671178',invoiceFontSize:21,showStampSignature:true}};
+window.customerById=()=>({name:'آقای حکیم جروند',phone:'09144497579',address:'جاده انهر، پردیس درب'});
+window.invoiceAccountBreakdown=()=>({totalAmount:36380000,previousBalance:102195000,totalDebt:138575000,received:8000000,finalBalance:130575000});
+window.num=x=>Number(x)||0;window.faDigits=x=>String(x??'');window.money=x=>Number(x||0).toLocaleString('fa-IR')+' تومان';window.numberToWords=x=>'صد و سی میلیون و پانصد و هفتاد و پنج هزار';window.displayCardNumber=x=>String(x||'').replace(/(.{4})(?=.)/g,'$1 ');window.normalizeInvoiceTemplateId=x=>['invoice_template_t4','invoice_template_t6','invoice_template_t7'].includes(String(x))?String(x):'invoice_template_t4';window.debtLevelInvoiceNote=()=>'';
+window.getActiveAssetImage=(type)=>type==='stamps'?'alanrang_official_stamp.png':type==='signatures'?'alanrang_official_signature.png':'';
+</script>
+<script src="invoice_full_shell_data_v3970.js"></script><link rel="stylesheet" href="invoice_templates_v3970.css"><script src="invoice_templates_v3970.js"></script>
+<script>
+const q=new URLSearchParams(location.search); const code=String(q.get('t')||'4'); const i=['4','6','7'].includes(code)?code:'4';
+const base={customerId:'c1',invoiceNumber:'hakim.F405/04',date:'۱۴۰۵/۰۵/۲۲',items:[{description:'درب سفید براق و شیشه خور کد ۳۴۴',quantity:6,unit:'عدد',unitPrice:3400000},{description:'نیم لنگه شیشه خور کد ۳۴۴',quantity:1,unit:'عدد',unitPrice:2380000},{description:'درب سفید براق کد ۳۴۵',quantity:3,unit:'عدد',unitPrice:3400000},{description:'درب سفید براق کد ۳۴۶',quantity:1,unit:'عدد',unitPrice:3400000}],description:'دریافت کارت‌به‌کارت مبلغ ۸,۰۰۰,۰۰۰ تومان در تاریخ ۱۴۰۵/۰۵/۱۹ توسط حکیم',invoiceTemplateId:'invoice_template_t'+i};
+document.getElementById('root').innerHTML=AlanRangInvoiceRendererV3970.render(base);
+</script>

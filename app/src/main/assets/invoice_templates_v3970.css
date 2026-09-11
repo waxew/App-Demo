@@ -1,0 +1,16 @@
+.ar70-invoice-stack{display:grid;gap:14px;width:100%;max-width:1087px;margin:0 auto;direction:rtl}
+.ar70-page{width:100%;aspect-ratio:1087/1536;background:#fff;overflow:hidden;box-shadow:0 8px 24px rgba(15,23,42,.12)}
+.ar70-page>svg{display:block;width:100%;height:auto}
+@media(max-width:720px){.ar70-invoice-stack{gap:8px}.ar70-page{box-shadow:none}}
+@media print{
+  *{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important;color-adjust:exact!important}
+  @page{size:A4 portrait;margin:10mm}
+  body{background:#fff!important}
+  body>*:not(#app){display:none!important}
+  #app{display:block!important}
+  .no-print,.bottom-nav,.floating-search,.lock-fab,.appearance-fab{display:none!important}
+  .ar70-invoice-stack{display:block!important;width:190mm!important;max-width:190mm!important;margin:0 auto!important;gap:0!important}
+  .ar70-page{width:190mm!important;height:268.16mm!important;box-shadow:none!important;page-break-after:always!important;break-after:page!important;page-break-inside:avoid!important;break-inside:avoid!important}
+  .ar70-page:last-child{page-break-after:auto!important;break-after:auto!important}
+  .ar70-page>svg{width:190mm!important;height:268.16mm!important}
+}

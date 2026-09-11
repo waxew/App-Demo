@@ -1,0 +1,372 @@
+Manifest-Version: 1.0
+Created-By: 21.0.11 (Debian)
+
+Name: assets/invoice_theme_previews/t6.jpg
+SHA-256-Digest: MPBK1KnIrOly4kDt7Uf09nYciuLlieTQU8mmD2b+U8Q=
+
+Name: assets/product_v39180.js
+SHA-256-Digest: 4msUzeiwl+ErDFYH+CEpiT30UHRugLArtAtgWWlAM+Q=
+
+Name: assets/product_v39200_check_fix1.js
+SHA-256-Digest: 0e+2+cpy8jDcB2yp/hXGFIxBMnBsNnEfLjSouk5X6AY=
+
+Name: assets/invoice_identity_presets/stamp_04.png
+SHA-256-Digest: XtT5zB0AHEwmLadf8hsrNX4+Nk1NF7KodHZwaysQDgU=
+
+Name: assets/document_engine_v2.js
+SHA-256-Digest: NwJvjPlahwRKFgk7gg0gZVZ456e5rn9MQ5KWa755xxs=
+
+Name: assets/product_v39200_stage2.js
+SHA-256-Digest: /IWqrQ3eWl+2uGP8erHCQPfPi7vvftYAu52maEZMKW4=
+
+Name: assets/product_v39170_stage5.js
+SHA-256-Digest: mCtcUx/RgAuxXuqAquYcu9xPLX7Xo4sRQtQEOecGG3Y=
+
+Name: assets/alanrang_official_signature.png
+SHA-256-Digest: aw7aOhUKXppB7fC7CeoAqCs7yire3OwTk3SLLPjsZ68=
+
+Name: assets/product_v39160.js
+SHA-256-Digest: dk1T1GkMrT6bDDorXDq419AE7x2wKUf+XsP2blRkZbI=
+
+Name: assets/invoice_identity_presets/stamp_02.png
+SHA-256-Digest: P4+ZchyD6cfZptNf2wFochZMRQB61ktZH0+ifxuWbyQ=
+
+Name: assets/product_v39210_stage3.js
+SHA-256-Digest: GJsOhPYCoKVNEsUbAmco+Ct1wTj+9rtbHx9LWPpsHFk=
+
+Name: assets/product_v39180_stage3.js
+SHA-256-Digest: uehIWnE1x3eHTE6SEHhoB8VVS+hD5wGBX3UCBMkhLGg=
+
+Name: assets/product_v39240_stage5.js
+SHA-256-Digest: JjrXk70zzwjSiUVUgrS8hP5Vu6i8RW8q5V+F4ee5TQ8=
+
+Name: assets/product_v39160_stage2.js
+SHA-256-Digest: WQi+++R15zJ7m5xk0EnuOpehiRLKGMmupRMyDJs6P0g=
+
+Name: assets/product_v39130_stage4.js
+SHA-256-Digest: RAczkS/FTz2FOzpxay2bQIeLHr/7mfB7ix4/2qvOkb4=
+
+Name: assets/product_v39140_stage5.js
+SHA-256-Digest: GSBff+cp4Wf5bHz9+QRLaI/cY9ZqNJ383kwldcJlldc=
+
+Name: res/drawable/alanrang_logo_source.jpg
+SHA-256-Digest: P+wCMrDv69kKA2/wy11Z+QW1oPq/PldNGhsaDOzmAP8=
+
+Name: assets/product_v39230_stage4.js
+SHA-256-Digest: 1eTdWtnzQoiJh48X6iPkomwtDd4bOEdNzdq5nnhm8ak=
+
+Name: assets/invoice_identity_presets/signature_02.png
+SHA-256-Digest: 5tiEXKz24nnpPsMQws/Nl4I0BZtoolkPPXtjB652xM8=
+
+Name: assets/product_v39250_stage1.js
+SHA-256-Digest: 14eYYALW1qPnibdkHHhOWIWsjgf7Cdbn5Zqs2VIPifU=
+
+Name: assets/product_v39310_home_navigation_hardening.js
+SHA-256-Digest: aLxoiBrDFk4NArSLWv1pdZDTovXhnAQHSlR1xfGpMuU=
+
+Name: assets/product_v39190_stage4.js
+SHA-256-Digest: HlOwIErIGeBR0kQLTAJWUJ/0xGl65ejSIEvTPJ42uvw=
+
+Name: assets/test_render_v3970.html
+SHA-256-Digest: cRN4pFNYA5PYZ6eDonUBoTLNVYURfT+VVLZzwz9CXVI=
+
+Name: assets/invoice_full_shells_v3970/t4.png
+SHA-256-Digest: tKRMNcz3GGnR3cF5L6/DLsGQK9Zm+goHmKl+WJZtS6M=
+
+Name: assets/product_v39280_performance_stability.js
+SHA-256-Digest: IcRJUcpFtrtf9qCrA03ztVoLPSwgIjCZGDoNnu723+U=
+
+Name: assets/product_v39120_stage4.js
+SHA-256-Digest: YOXYumj+ArMh73/T+rqGkzROBP34qbbZn4a2RTvMbM8=
+
+Name: assets/product_v39170_stage2.js
+SHA-256-Digest: NzRhFk1L4+c9vydI2qS9ocWHKdZSb6AmTEpXdKMSX14=
+
+Name: assets/product_v39220_stage4.js
+SHA-256-Digest: 3ofyW1Um5oUFRp2bp/A7T2XT2qnM3XtdxMoYwApFMSk=
+
+Name: assets/product_v39400_release_safety.js
+SHA-256-Digest: rjzZZ+wSMH7PA/n7X4iIYmiHvWNKpuNNL4JUwlflyW0=
+
+Name: resources.arsc
+SHA-256-Digest: Hm2a0xU9tXshJi+wMOOSRuTizz1NnEtRoY6xYG4SYdw=
+
+Name: assets/product_v39210.js
+SHA-256-Digest: QB/vEQYfCA/UUXfVtVLnp5VK2UaOzrC8a6RE2IbVtUA=
+
+Name: assets/product_v39210_stage2.js
+SHA-256-Digest: oRQIT7lXbFBNxz4ZsdI4XJg958UkNNkct9U6kammpcE=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 6VGXuqX8JlpeZNKHxpufFvIh7reKsuvk/YvQ9wH9Xr0=
+
+Name: assets/product_v39140.js
+SHA-256-Digest: 9EJYAHdilCamtXBtu6qfUbN/PNdSzpnpVS7691MV9BY=
+
+Name: assets/product_v39180_stage4.js
+SHA-256-Digest: bYQm8Ipvl/qKFRUpRS/WsXsgx/khiddC7iNYde3Q5rw=
+
+Name: assets/product_v39230_stage5.js
+SHA-256-Digest: WKnR7zvyC+8i/Ug6utgX2fCZXjliaFYx0AK2dwuWDs0=
+
+Name: assets/product_v39140_stage2.js
+SHA-256-Digest: kQGONLUhDoYyjpomGeSSpO4cymzzKf+2b/NsItXp0UI=
+
+Name: assets/product_v39150_stage4.js
+SHA-256-Digest: mtu8Hf+iXIdMLopYKhbVLIraIFN5V2a4Fujvmdgj9As=
+
+Name: assets/product_v39240_stage2.js
+SHA-256-Digest: bXhOwEg/hMLYNgwx3umMShbY/LeoyHA/DzcuKFMb8bI=
+
+Name: assets/product_v39130_stage5.js
+SHA-256-Digest: +Df/tr7nM6UUcjVJypaBxwXL8Leu/gImtRT4lAKMk5w=
+
+Name: assets/product_v39413_backup_recovery_trash90.js
+SHA-256-Digest: PBEGTue4jUE3WewA9FwHqGZVE5CsOhQo/JDzrw7TUvU=
+
+Name: assets/invoice_identity_presets/signature_01.png
+SHA-256-Digest: UUJ8TtFtQoeU3kIAsoHwsFTVVPC5Fdg3igr3L6I62ps=
+
+Name: assets/product_v39230.js
+SHA-256-Digest: cwb9DbWwSZDcOMmmwh7wTeQV7ib4Wq9GcRogLPTof2Y=
+
+Name: assets/product_v39370_deep_integrity.js
+SHA-256-Digest: vcF4f/p9p9tS6Ek6+lykva+ZIqc3J4lV9O7UHYVSZbs=
+
+Name: assets/product_v39210_stage5.js
+SHA-256-Digest: jLC32+YFoOI3s/flTJqf0LTjT9SVYsdIoHaMiUyg+T8=
+
+Name: assets/product_v39160_stage4.js
+SHA-256-Digest: L6acCR1pqOOIOsJgnEqFMUnWOcp6BXjiGZrOTQMFA1Q=
+
+Name: assets/product_v39130_stage2.js
+SHA-256-Digest: ZkF8EuyOqe9BJiAhCEQDwygsulOfytbgElaDEaf+DUo=
+
+Name: assets/invoice_full_shells_v3970/t6.png
+SHA-256-Digest: 3agU4URSwnvk0YNnRlOGJ3yvsVNSpbEBSI4SWhBF9Jk=
+
+Name: assets/product_v39230_stage2.js
+SHA-256-Digest: 4lz4H77eyh2/28qado1Cz858a/xnNk+HDGuCYyUXI7I=
+
+Name: assets/invoice_full_shell_data_v3970.js
+SHA-256-Digest: KkmEsm0IcWHBs/gcmdSH55MRrgvy0h2RkBQ6V9enyig=
+
+Name: assets/product_v39380_portable_export.js
+SHA-256-Digest: 0bMLXXZxztqaNQjZWi0qdOfiYQUYlGJjUMlTaehuMMY=
+
+Name: assets/product_v39120_stage2.js
+SHA-256-Digest: eD5vAAiQMJQnsmx3TaOmTTlPD/3V9eWoTRROXf3RAbA=
+
+Name: assets/product_v39170_stage4.js
+SHA-256-Digest: M96NKFZpvkuKZDj3HnynQHy/2tzCuNOTfJ9nztgNqjc=
+
+Name: assets/product_v39300_document_archive_ux.js
+SHA-256-Digest: sZJAw/cjOn/qGAYDMwyAafxfsry+b09eVV0bqubKk1o=
+
+Name: assets/product_v39220_stage2.js
+SHA-256-Digest: OsiDE8sqizeBcSrBdz6/lfzMBLvDqwvHAiGRuQ+xTmI=
+
+Name: assets/alanrang_official_stamp.png
+SHA-256-Digest: SRQZvW7Fy+6lqSyjodXDKwohJrMH1jp9wWJpCbat3BM=
+
+Name: assets/invoice_identity_presets/stamp_06.png
+SHA-256-Digest: ZhfKzSBdgkUHLA0yHfO6B8lpWF7rCJ4hDijfQZSWYzI=
+
+Name: assets/product_v39200_stage5.js
+SHA-256-Digest: vrr8fo2uHUQ6kGWBgFhpwDzBvBn69Ot0cA1s0FgmxS4=
+
+Name: assets/product_v39120.js
+SHA-256-Digest: IzzjUEIR8M+2+sKyWW80oqecl6RsbZlF4/wGeZbjwsg=
+
+Name: assets/product_v39180_stage2.js
+SHA-256-Digest: x428vNrVPIaxUdVHIq+T5dO8wiHNgghSuaRxNDR6KWg=
+
+Name: assets/product_v39130_stage3.js
+SHA-256-Digest: uSwvtzTqsXufh08M3i/N28pdP/hjBTNpCOdeLHeYhxA=
+
+Name: assets/product_v39160_stage3.js
+SHA-256-Digest: VV9yeV09fy3u46eggEojPhAejdMMthFhlp9GZWDOO9E=
+
+Name: assets/product_v39210_stage4.js
+SHA-256-Digest: zCa6gNKasg/FzYIlLBT2Z1YL/SH76KJ8rOzmP8pK6yw=
+
+Name: assets/product_v39140_stage4.js
+SHA-256-Digest: V7Ts3WsEkN9/yHh0Vh772L3nK+SY7/C/CcJb5URz1mY=
+
+Name: assets/product_v39150_stage2.js
+SHA-256-Digest: Yxqv3OEGgMRg7hemrp5ZmE9SqioBK0ZpJg0yGjx5MMU=
+
+Name: assets/product_v39230_stage3.js
+SHA-256-Digest: ApzM3OtyLO4vqjVJS/lugVR8k4tFzsINpmUj7+eAJu8=
+
+Name: assets/product_v39250_stage2.js
+SHA-256-Digest: y7mIKqV291SgddMUbmoFDXIXJqW4xIZvyNuNeDZOf5Q=
+
+Name: assets/product_v39100.js
+SHA-256-Digest: tow1KeZES7A9r6xjSXoHhQXZFd9HMEHtQ588WS5NVR4=
+
+Name: assets/invoice_templates_v3970.css
+SHA-256-Digest: qzdjI78d3jaDSemN285+3XrLAfl02Lgzf9HFSIb3zVc=
+
+Name: assets/invoice_theme_previews/t7.jpg
+SHA-256-Digest: 4uFZtDHgQ86Nh/SZHykNhcv30jSY3tfu0mkAr44X8N8=
+
+Name: assets/product_v39120_stage5.js
+SHA-256-Digest: Xnn/c2gcx6NPdYFy8x/97vjOHOLtXCw5VF7q+3n6778=
+
+Name: res/drawable/alanrang_icon.png
+SHA-256-Digest: ysabyWw9zu/NQ4xsU8v+8LlJRzl9ZxvTvngYr/G/tGQ=
+
+Name: res/drawable/alanrang_icon_modern.png
+SHA-256-Digest: 3tgsH0it7ROMwvGqVA/u0K2chD5Jzf2KKqlAfFYmBvk=
+
+Name: assets/product_v39190.js
+SHA-256-Digest: ylIjV3g97krh8GHF/P4P2rJloBJYXnXdZpQ7Dq3iXn0=
+
+Name: assets/product_v39220_stage5.js
+SHA-256-Digest: Wx4siPGvIqd+sKZe8tt54V2KY2FJCuHp5YKWJVsDspw=
+
+Name: assets/product_v39240_stage4.js
+SHA-256-Digest: u2JHp7E/kpG9S5214by410fa3q0mQNoluKJ6YJwHKsI=
+
+Name: assets/invoice_identity_presets/stamp_03.png
+SHA-256-Digest: gj6wFpCnv9YCKEKkM+bbYKxULqEbjV10gwsIZa+i65U=
+
+Name: assets/product_v39350_recovery_package.js
+SHA-256-Digest: wWJ1uYiGf3WqlArHKkGne5J6ktxLqJj5kFV891gG+qs=
+
+Name: assets/product_v3982.js
+SHA-256-Digest: ON52ySctLXx4vfRBaG7peRRoVohlNDAszaLOq+o3KvI=
+
+Name: assets/product_v39410_year_end_archive.js
+SHA-256-Digest: Pec4/TXw7rSoHXlRx+Q1rDcBeKDUvI8SyVfv5xsw+9A=
+
+Name: assets/invoice_templates_v3970.js
+SHA-256-Digest: J7EIKsSwyblm+yTU22JQanJpXYSBe0bWxNFSnKqQlz8=
+
+Name: assets/product_v39200.js
+SHA-256-Digest: wf6A49H2/DTsRB3GR6VN4LBVJf9B0fYlxA1QKrweRvs=
+
+Name: assets/product_v39290_reports_polish.js
+SHA-256-Digest: yX010q/7hO0Iuq0hgEuPMORm57no0OWt5CzqN0oTi8s=
+
+Name: assets/invoice_identity_presets/SHA256SUMS.txt
+SHA-256-Digest: Jlb9d0tRHjnTM13CE4plOjYHXtTtjkeY70/NW+mCnYA=
+
+Name: assets/product_v3990.js
+SHA-256-Digest: 4709SiKdz24PBRCHcw7GKVIoYP/2BIjDM5aH2Sg3Neo=
+
+Name: res/drawable/alanrang_icon_modern_source.png
+SHA-256-Digest: MxZTTVyjZV7Te6K4toRvYKTMTYBe3vPJuSNcrChMlWI=
+
+Name: assets/product_v39150_customer_share_b2.js
+SHA-256-Digest: csnwVqlVRCm5DdntuPkAq/Lsa/xnqAaEk1SKRrGQOOA=
+
+Name: res/drawable/alanrang_icon_classic_source.png
+SHA-256-Digest: of6i+qk4N4jIXAOoygXEGT99Iwl5vsCeiL4ZqKuPfyk=
+
+Name: assets/product_v39150_stage5.js
+SHA-256-Digest: WMSHhYC7vtCjOqkty0LXoJp9FGyF6IUj4xx/qiY0yrU=
+
+Name: assets/product_v39190_stage3.js
+SHA-256-Digest: G+q3uswMEOkohp6GuIaSg5CaN7cKIhFqEfeL3dD/RsQ=
+
+Name: assets/product_v39200_stage3.js
+SHA-256-Digest: PSwN8xr24WA0ScDjo21NCJCnA459iv/+7CS2tDbzUn8=
+
+Name: assets/product_v39170.js
+SHA-256-Digest: JWCz6lDWBxVW6KCYGnRt61qIW8OO4ReOXcn+Q/Nu/7g=
+
+Name: assets/index.html
+SHA-256-Digest: BMa+B2pM2hawkYjJNYGi4fehnHbv13KfFYkb6G8juIk=
+
+Name: assets/invoice_identity_presets/stamp_01.png
+SHA-256-Digest: lfnyHbOQvYoQe7dCLZQWNRjmWLwyVZdiH8v4MQZMSbI=
+
+Name: assets/product_v39360_migration_ledger.js
+SHA-256-Digest: gJtD4SxOZEpzR2mC59zoZPyO2R9snMFZ47LS4ak4JJE=
+
+Name: assets/product_v39340_external_backup.js
+SHA-256-Digest: pJUgIeoeKcPtwswq1HLEYiTzGi11O413Q8lnTTqr8AQ=
+
+Name: assets/product_v39160_stage5.js
+SHA-256-Digest: aFb3kXkLMhjzPx655ehoD12Cmo305AMjakUH8GIBAaE=
+
+Name: assets/product_v39130.js
+SHA-256-Digest: xCcFvOCceRMRpHK+cSJU6JkDz2KuFpVSy4iymberrB4=
+
+Name: assets/product_v39190_stage5.js
+SHA-256-Digest: zwBOSeUwyjMXHa5T5oB4J6+ZgPS32E01mQlL5Xcdot4=
+
+Name: res/drawable/alanrang_icon_classic.png
+SHA-256-Digest: BH9/W5AYw23ilVLmGkiCdTCd886Rpagy6wPQ3vT2ZDI=
+
+Name: assets/product_v39220.js
+SHA-256-Digest: lxB1s7PqI4n122lDq6PYUFPx+2OZVTBuQRdzsox3ROY=
+
+Name: assets/product_v39200_stage4.js
+SHA-256-Digest: PT87ercQ3xlifNCObE1s10Y1HEc9kykQpUCEQe+KMyU=
+
+Name: assets/product_v39170_stage3.js
+SHA-256-Digest: /QeyQkkH4RO/6Ypuy3GK9syKk0rJx5XANfAYIQaQyvA=
+
+Name: assets/product_v39190_stage2.js
+SHA-256-Digest: AgD6nBBQMeEFVklG3jTPZg+LHxtKwoxfgNAhZ8PCD2c=
+
+Name: assets/product_v39220_stage3.js
+SHA-256-Digest: wC9tHJZ5eN/gOWJC5gKMD4FlDCDwJAjAM0cf6XDKt70=
+
+Name: assets/product_v39150.js
+SHA-256-Digest: tJjWTsgzfA/4+OpBoBEkIfiqrWXgtMXoU0ZJH+C5Aw8=
+
+Name: assets/product_v39120_stage3.js
+SHA-256-Digest: wKSaAkIFFpx7C/IrgLB9H8jsYQdwOaSQBqHVgcnSiQA=
+
+Name: assets/product_v39330_multigeneration_backup.js
+SHA-256-Digest: lK8hlK2oWRHowgGSk8M36SwgfJwdtpehvRdYgneMEgY=
+
+Name: assets/product_v3980.js
+SHA-256-Digest: 7Evco7p353lTP9wwA6ul7Fgp0fQNGdJed27gSAHqoZM=
+
+Name: assets/product_v39110.js
+SHA-256-Digest: 7OwnwhFI8mrwjDe3m07+km7kpuRPKUqmFuhxYzSYZfQ=
+
+Name: assets/product_v39180_stage5.js
+SHA-256-Digest: F4jNPvU6Jjpv+oK+c/JdBI7S/+IIHDkT1eoK9MBYgkA=
+
+Name: assets/product_v39270_uiux_cleanup.js
+SHA-256-Digest: lt6oeLvuK1sMS5Zy1bQqcLFNKw9ZbJdlyLV4ffJqbhQ=
+
+Name: assets/invoice_theme_previews/t4.jpg
+SHA-256-Digest: 9z8TA0CfmT/ka9SzNV6SGN5czrPwqHkp+8qfc58FMYQ=
+
+Name: assets/document_black_header_v3982.png
+SHA-256-Digest: CRFOrJ6GKNfxb2sdxj5lccIdqDxSMjy71RuPC8Fwp9U=
+
+Name: assets/product_v39240.js
+SHA-256-Digest: MDT58Cw3WpvTR5dJpRGSjh722PKb54RUAlaqKnr6Asc=
+
+Name: assets/invoice_full_shells_v3970/t7.png
+SHA-256-Digest: wTOo3dOKuTXKzsuzS8h0V6zwAt4Uya67kgix0IoHL5A=
+
+Name: assets/product_v39390_signing_continuity.js
+SHA-256-Digest: oY6mhbxdjertwSpXiWyKrO65hd+3DW2H3Wf5YKELUCQ=
+
+Name: assets/product_v39150_stage3.js
+SHA-256-Digest: nIv/vDtLs2Rf7z1wdS9q7RZD7VuKQhg7TQRaViEoExo=
+
+Name: assets/product_v39140_stage3.js
+SHA-256-Digest: DOcFxOp7YaYezhqpLRxs6IkolHNJvhrxLx/7GfXBrfw=
+
+Name: assets/product_core_v3962.js
+SHA-256-Digest: jh5QgOnCz2tyJyBj+BLcN30tCJUpOg+o4BKblOx9OGk=
+
+Name: assets/invoice_identity_presets/stamp_05.png
+SHA-256-Digest: +Z371j4XoZ4sOm48ggoKa1G8hVWiJnUvbBD1SPZAFjI=
+
+Name: assets/product_v39240_stage3.js
+SHA-256-Digest: xB/SYmAucRCzwJbZef62BTxW0pu3F/dTc46pzmgl4ew=
+
+Name: classes.dex
+SHA-256-Digest: OjRC5TWqQ0IHadl7xJpOi2gvcl/AQFueTdN9C8oQZB8=
+
